@@ -14,9 +14,9 @@
 
 ##  <br /> <a name="introduction">✨ Introduction</a>
 
-**[EN]** Modern landing page design for a Travel website built Next.js, TailwindCSS, and TypeScript.to f
+**[EN]** Modern landing page design for a travel website built with Next.js, TailwindCSS, and TypeScript. This project leverages Next.js for server-side rendering (SSR) and static site generation (SSG), enhancing performance and SEO while offering features like automatic code splitting and API routes. TailwindCSS is used for its utility-first approach, enabling rapid UI development with pre-built classes for custom design and consistent styling. TypeScript ensures robust and maintainable code by providing static typing, which helps in catching errors early and improving overall application stability. The combination of these technologies results in a high-performance, visually appealing landing page tailored for travel enthusiasts.
 
-**[FR]** Page d'accueil au design moderne pour un site de voyage, développé avec Next.js, TailwindCSS et TypeScript.
+**[FR]** Page d'accueil au design moderne pour un site de voyage, développée avec Next.js, TailwindCSS et TypeScript. Ce projet utilise Next.js pour le rendu côté serveur (SSR) et la génération de sites statiques (SSG), optimisant les performances et le SEO avec des fonctionnalités comme le découpage automatique du code et les routes API. TailwindCSS facilite le développement rapide de l'interface utilisateur grâce à ses classes utilitaires, permettant un design personnalisé et cohérent. TypeScript améliore la robustesse et la maintenabilité du code en offrant une typage statique, ce qui permet de détecter les erreurs tôt et d'assurer la stabilité de l'application.
 
 ##  <br /> <a name="tech-stack">⚙️ Tech Stack</a>
 
